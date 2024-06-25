@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Componente HomeView.vue Validación de match con el snapshot 1`] = `
+<div class="home text-center">
+  <h1>Vista Home</h1><img alt="Vue logo" src="">
+  <posts-view-stub></posts-view-stub>
+</div>
+`;

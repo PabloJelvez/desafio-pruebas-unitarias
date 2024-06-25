@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Componente About.vue Validación de match con el snapshot 1`] = `
+<div class="about text-center">
+  <h1 class="aboutTitle">Vista About</h1>
+</div>
+`;
